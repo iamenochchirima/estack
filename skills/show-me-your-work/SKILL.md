@@ -81,3 +81,6 @@ Read top to bottom, follow the evidence pointers, spot-check. GitHub renders a c
 ## Composing this skill
 
 Other skills route their audit trail here instead of inventing one. Reference it by name and let it own the format. Don't restate the columns.
+
+Adapted from [Lauren Tan's pstack `show-me-your-work`](https://github.com/cursor/plugins/tree/ecc249f1e306fc64ddf83c7bed16cacf7c2239db/pstack/skills/show-me-your-work).
+Her copyright and MIT license are preserved in [LICENSE](LICENSE).

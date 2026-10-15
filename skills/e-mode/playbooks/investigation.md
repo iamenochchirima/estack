@@ -7,4 +7,4 @@ Use for a question whose deliverable is an answer, diagnosis, or recommendation.
 3. Answer at the user's requested depth. Cite files, logs, tests, or documentation that support material claims. For a decision, compare the actual alternatives and make a recommendation with its tradeoff.
 4. Stop at the answer. If the user then requests a change, route that work to Bug fix, Feature, or Refactoring. Do not treat an investigation as implicit permission to implement its recommendation.
 
-Use a table only when several alternatives or repeated mappings are easier to compare that way.
+When the user or project workflow authorizes preserving research, use `project-notes` to save it in Stash. Do not create repository research dumps or turn saved findings into approved tasks. Use a table only when it helps compare alternatives.

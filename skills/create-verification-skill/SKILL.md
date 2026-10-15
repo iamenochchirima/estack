@@ -47,3 +47,6 @@ Run its own instructions end to end once: launch, doctor, drive one mapped featu
 ## 6. Keep it current
 
 Point the project instructions at the canonical map and verification skill. When shipped behavior changes, update the map in the same change. Use `maintain-verification-skill` for a targeted drift check or a full audit when requested; do not invent a schedule.
+
+Adapted from [Lauren Tan's pstack `create-verification-skill`](https://github.com/cursor/plugins/tree/ecc249f1e306fc64ddf83c7bed16cacf7c2239db/pstack/skills/create-verification-skill).
+Her copyright and MIT license are preserved in [LICENSE](LICENSE).

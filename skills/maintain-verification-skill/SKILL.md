@@ -27,3 +27,6 @@ Only edit the canonical verification skill, its owned helpers, the canonical map
 4. Clean up only resources this run started. Confirm evidence survives cleanup and that any copied tool-specific skill instructions still point to the canonical map.
 
 Report the mode, features covered, evidence, changes made, and anything blocked or out of scope. Follow the project's normal change and pull-request rules if a correction needs to be submitted. Do not claim full-map coverage after a targeted pass.
+
+Adapted from [Lauren Tan's pstack `maintain-verification-skill`](https://github.com/cursor/plugins/tree/ecc249f1e306fc64ddf83c7bed16cacf7c2239db/pstack/skills/maintain-verification-skill).
+Her copyright and MIT license are preserved in [LICENSE](LICENSE).
