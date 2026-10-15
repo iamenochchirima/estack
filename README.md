@@ -20,15 +20,6 @@ Reusable agent skills for Codex, Claude Code, and other compatible agents.
 | [to-spec](skills/to-spec/SKILL.md) | Synthesize agreed requirements and Stash research into a concise specification in Linear. |
 | [review-comments](skills/review-comments/SKILL.md) | Remove comment noise while preserving justified rationale, contracts and required notices. |
 
-The first four and `review-comments` are adapted from pstack for this workflow. Each includes source
-attribution and Lauren Tan's MIT notice in its own folder. `long-running-work`,
-`prepare-project`, `clean-interface` and `project-notes` are separate skills. These skills provide
-workflows, not a substitute for testing them against the project where they are used.
-
-`to-tickets` and `to-spec` are adapted from Matt Pocock's skills, with source
-attribution in their instructions and his MIT notice in each skill's `LICENSE` file.
-Matt Pocock's `code-review` skill is not published from this repository.
-
 ## Install with `npx skills`
 
 List the skills available from the repository:
@@ -79,4 +70,5 @@ repository commit as its update signal.
 
 ## License
 
-This repository is released under the MIT License.
+Released under the [MIT License](LICENSE). Upstream credits and adaptation details
+are recorded in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
